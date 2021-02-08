@@ -1,0 +1,11 @@
+body{
+	margin: 0;
+	padding:0;
+	box-sizing:border-box;
+}
+canvas{
+	display:block;
+	width:800;
+	height:400;
+	background-image: url(https://i.pinimg.com/originals/2c/37/53/2c37538ad1d9a09852c9ec8638c5fa8b.png);
+}
